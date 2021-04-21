@@ -1,3 +1,8 @@
 HTML5 Semantics and Flexbox:
   https://codepen.io/juanlospalotes/pen/zrEaYo
 
+Senamtic HTML:
+  https://internetingishard.netlify.app/html-and-css/semantic-html/index.html
+
+CSS Flexbox (check out the next 3 lessons also):
+  https://www.w3schools.com/css/css3_flexbox.asp
