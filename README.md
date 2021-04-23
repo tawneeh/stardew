@@ -6,7 +6,7 @@
 
 ## 📋 Description
 
-This is a static site that I created to practice HTML and FlexBox.
+This is a static site that I created to practice semantic HTML and FlexBox.
 
 ## ⚙️ Setup/Installation Requirements 
 
