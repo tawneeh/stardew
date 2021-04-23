@@ -7,5 +7,5 @@ Senamtic HTML (this is a great article):
 CSS Flexbox (check out the next 3 lessons also):
   https://www.w3schools.com/css/css3_flexbox.asp
 
-More Flexbos:
+More Flexbox:
   https://internetingishard.netlify.app/html-and-css/flexbox/index.html
