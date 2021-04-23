@@ -6,3 +6,5 @@
   Examples of semantic elements: <form>, <table>, and <article> - Clearly defines its content.
 
 * Add a little logo?
+
+* Deploy as a live site! (need to practice this)
