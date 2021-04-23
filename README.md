@@ -15,7 +15,7 @@ Software Requirements
 * A code editor; I prefer VSCode
 
 Open by Downloading or Cloning
-* Navigate to <>
+* Navigate to <https://github.com/tawneeh/stardew.git>
 * Download this repository to your computer by clicking the green Code button and 'Download Zip'
 * Or clone the repository
 
