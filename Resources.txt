@@ -9,3 +9,6 @@ CSS Flexbox (check out the next 3 lessons also):
 
 More Flexbox:
   https://internetingishard.netlify.app/html-and-css/flexbox/index.html
+
+Flexbox Best Practices:
+  https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Typical_Use_Cases_of_Flexbox
