@@ -1,6 +1,6 @@
 # _Ode to Stardew_
 
-#### _DATE 04.12.2021_
+#### _DATE 04.22.2021_
 
 #### ✒️ By _**Tawnee Harris**_
 
@@ -36,6 +36,7 @@ Please feel free to reach out to me anytime at <tawneeh@icloud.com>
 
 * HTML
 * CSS
+* Flexbox
 
 ### License
 
