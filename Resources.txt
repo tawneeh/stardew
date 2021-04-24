@@ -7,6 +7,9 @@ Senamtic HTML (this is a great article):
 CSS Flexbox (check out the next 3 lessons also):
   https://www.w3schools.com/css/css3_flexbox.asp
 
+Mozilla Flexbox Basics:
+  https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
+
 More Flexbox:
   https://internetingishard.netlify.app/html-and-css/flexbox/index.html
 
