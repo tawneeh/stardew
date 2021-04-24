@@ -1,4 +1,5 @@
 * Research flexbox
+  CSS Flexible Box Layout, commonly known as Flexbox, is a CSS 3 web layout model. It is in the W3C's candidate recommendation stage. The flex layout allows responsive elements within a container to be automatically arranged depending upon screen size.
 
 * Research semantic HTML
   A semantic element clearly describes its meaning to both the browser and the developer.
