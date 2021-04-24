@@ -6,6 +6,6 @@
   Examples of non-semantic elements: <div> and <span> - Tells nothing about its content.
   Examples of semantic elements: <form>, <table>, and <article> - Clearly defines its content.
 
-* Add a little logo?
+* Add a little logo? Maybe somethig Stardew related - like a duck, etc. Or custom make one like SleighBudget.
 
 * Deploy as a live site! (need to practice this)
