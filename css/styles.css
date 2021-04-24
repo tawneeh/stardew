@@ -20,7 +20,7 @@ header {
 
 footer {
   background-color: orchid;
-}
+} /* will this override the address and copyright styling? find out! */
 
 address {
   color: red;
