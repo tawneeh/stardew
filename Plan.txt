@@ -10,4 +10,7 @@
 
 * Add a little logo? Maybe somethig Stardew related - like a duck, etc. Or custom make one like SleighBudget.
 
+* W3C Markup Validation - "validate the HTML and CSS using W3C Markup Validation. Make the recommended changes"
+  https://validator.w3.org/
+
 * Deploy as a live site! (need to practice this)
