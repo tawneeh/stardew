@@ -13,7 +13,6 @@ header {
 }
 
 .section-container {
-  color: #fff;
   background-color: #5995DA;
   padding: 20px 0;
   display: flex;
@@ -26,22 +25,35 @@ header {
   height: 300px;
   display: flex;
   justify-content: space-between;
+  padding-left: 20px;
 }
 
 #farming {
   background-color: lightblue;
   border: 1px solid #fff;
+  width: 900px;
+  height: 300px;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 20px;
 }
 
 #animals {
   background-color: pink;
   border: 1px solid #fff;
-  
+  width: 900px;
+  height: 300px;
+  display: flex;
+  justify-content: space-between;
 }
 
 #artisan {
   background-color: greenyellow;
   border: 1px solid #fff;
+  width: 900px;
+  height: 300px;
+  display: flex;
+  justify-content: space-between;
 }
 
 footer {
