@@ -1,8 +1,8 @@
-* {
+/* * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
+} */
 
 body {
   background-color: papayawhip;
@@ -17,33 +17,36 @@ header {
   background-color: #5995DA;
   padding: 20px 0;
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
 }
 
 .section-item {
   border: 1px solid #fff;
   width: 900px;
+  height: 300px;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
-/* #farming {
+#farming {
   background-color: lightblue;
   border: 1px solid #fff;
-  width: 900px;
-/* }
+}
 
 #animals {
   background-color: pink;
-} */
+  border: 1px solid #fff;
+  
+}
 
-/* #artisan {
+#artisan {
   background-color: greenyellow;
-} */
+  border: 1px solid #fff;
+}
 
 footer {
   background-color: orchid;
-} /* will this override the address and copyright styling? find out! */
+}
 
 address {
   color: red;
