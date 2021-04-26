@@ -17,18 +17,27 @@ header {
   background-color: #5995DA;
   padding: 20px 0;
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
+}
+
+.section-item {
+  border: 1px solid #fff;
+  width: 900px;
+  display: flex;
+  justify-content: space-around;
 }
 
 /* #farming {
   background-color: lightblue;
-}
+  border: 1px solid #fff;
+  width: 900px;
+/* }
 
 #animals {
   background-color: pink;
-}
+} */
 
-#artisan {
+/* #artisan {
   background-color: greenyellow;
 } */
 
