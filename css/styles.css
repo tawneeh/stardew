@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   background-color: papayawhip;
 }
@@ -6,7 +12,15 @@ header {
   background-color: orange;
 }
 
-#farming {
+.section-container {
+  color: #fff;
+  background-color: #5995DA;
+  padding: 20px 0;
+  display: flex;
+  justify-content: center;
+}
+
+/* #farming {
   background-color: lightblue;
 }
 
@@ -16,7 +30,7 @@ header {
 
 #artisan {
   background-color: greenyellow;
-}
+} */
 
 footer {
   background-color: orchid;
