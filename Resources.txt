@@ -1,6 +1,3 @@
-HTML5 Semantics and Flexbox:
-  https://codepen.io/juanlospalotes/pen/zrEaYo
-
 Senamtic HTML (this is a great article):
   https://internetingishard.netlify.app/html-and-css/semantic-html/index.html
 
