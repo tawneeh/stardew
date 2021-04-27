@@ -45,15 +45,18 @@ header {
 
 footer {
   background-color: orchid;
+  text-align: center;
 }
 
 #bio {
-  text-align: center;
+  color: darkslateblue;
 }
 
 a {
   text-decoration: none;
   font-size: 12px;
+  font-weight: bold;
+  color: darkslateblue;
 }
 
 #copyright {
