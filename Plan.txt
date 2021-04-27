@@ -12,6 +12,8 @@
 
 * Add media queries! 
 
+* Use the Responsively app? It is open source, and shows mirrored interactions aka how your interactions look on mobile, tablet, web, etc.
+
 * W3C Markup Validation - "validate the HTML and CSS using W3C Markup Validation. Make the recommended changes"
   https://validator.w3.org/
 
