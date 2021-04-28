@@ -6,7 +6,7 @@
 
 ## 📋 Description
 
-This is a static site that I created to practice semantic HTML and FlexBox.
+This is a static site that I created using semantic HTML and FlexBox.
 
 ## ⚙️ Setup/Installation Requirements 
 
@@ -36,7 +36,6 @@ Please feel free to reach out to me anytime at <tawneeh@icloud.com>
 
 * HTML
 * CSS
-* Flexbox
 
 ### License
 
