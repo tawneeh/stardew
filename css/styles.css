@@ -9,7 +9,7 @@ body {
 }
 
 header {
-  background-color: wheat;
+  background-color: lightblue;
 }
 
 .section-container {
@@ -38,7 +38,7 @@ header {
 }
 
 #artisan {
-  background-color: lightblue;
+  background-color: lavender;
   border: 1px solid rgb(0, 0, 0);
 }
 
