@@ -1,5 +1,7 @@
 * Add a link to GitHub: https://github.com/tawneeh
 
+* Add a link to my Portfolio
+
 * Add a little logo? Maybe somethig Stardew related - like a duck, etc. Or custom make one like SleighBudget.
 
 * Add media queries! 
