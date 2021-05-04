@@ -56,7 +56,7 @@ a {
   font-size: 12px;
   font-weight: bold;
   color: darkslateblue;
-  cursor: crosshair;
+  cursor: pointer;
 }
 
 #copyright {
